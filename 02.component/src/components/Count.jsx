@@ -13,8 +13,7 @@ const Count = () => {
 
     const handleClick2 = () => {
         setCount2(count2+1);
-        console.log('state',count2);;
-        
+        console.log('state',count2);        
     }
 
   return (
